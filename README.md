@@ -11,11 +11,12 @@ Team Members:
 Program Description:
 
   Demonstration for OO in C++ including
-    - Inheritance types 
-    - Multi-inheritance (Diamond Problem)
-    - Semi OOP
-    - Encapsulation
-    - Friend Class
+  
+    Inheritance types 
+    Multi-inheritance (Diamond Problem)
+    Semi OOP
+    Encapsulation
+    Friend Class
     
     
 How to run:
